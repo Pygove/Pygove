@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello, my name is Gonzalo 👋
 
 Hi! 👋
 💻I am a Python backend developer 🐍 in process and an advanced student of Computer Engineering 👨‍💻.
