@@ -29,6 +29,7 @@ Actualmente, me encuentro cursando los ultimos años de mi carrera en Ingenierí
 #### Herramientas:
 
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-000000?style=flat&logo=tailwindcss)
 ![FastApi](https://img.shields.io/badge/-FastApi-000000?style=flat&logo=fastapi)
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
 ![Github](https://img.shields.io/badge/-Github-000000?style=flat&logo=github)
