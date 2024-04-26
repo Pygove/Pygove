@@ -1,7 +1,7 @@
 <h1 align="center">¡Hola! ¡Soy Pygove! ♾️</h1>
 
 [![Twitter](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Pygove)](https://twitter.com/Pygove)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/pygove/)](www.linkedin.com/in/pygove)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/pygove)](https://www.linkedin.com/in/pygove/)
 [![Email](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:gonzalo.pygove@gmail.com)](mailto:gonzalo.pygove@gmail.com)
 
 ## Acerca de :wave:
