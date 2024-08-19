@@ -4,11 +4,14 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/pygove)](https://www.linkedin.com/in/pygove/)
 [![Email](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:gonzalo.pygove@gmail.com)](mailto:gonzalo.pygove@gmail.com)
 
+##Porfolio
+
+
 ## Acerca de :wave:
 
 Desarrollador Frontend Argentino especializado en React, con una sólida base en HTML, CSS y Javascript 👨‍💻.
 Experiencia como desarrollador Python 🐍 y una variedad de librerías como numpy, pandas, matplotlib, sympy, openpyxl, entre otras.
-Habilidades en metodologías ágiles como SCRUM 📈, así como mi xperiencia con herramientas de diseño como Figma y Canvas 👨🏻‍🎨, junto con mi dominio de plataformas de gestión de proyectos como Notion, Trello y Jira 🗂️.
+Habilidades en metodologías ágiles como SCRUM 📈, herramientas de diseño como Figma y Canvas 👨🏻‍🎨, y en plataformas de gestión de proyectos como Notion, Trello y Jira 🗂️.
 
 ## Tecnologías utilizadas 🧠
 
